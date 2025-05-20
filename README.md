@@ -1,4 +1,4 @@
-# Analýza závažnosti priebehu COVID-19 pomocou dátovej analytiky
+# Metódy dátovej analytiky v kontexte pandémie COVID-19
 
 Tento repozitár obsahuje podklady k bakalárskej práci zameranej na predikciu závažnosti priebehu
 ochorenia COVID-19 pomocou dátovej analytiky a strojového učenia. Dátová analýza bola realizovaná na reálnych údajoch 
