@@ -1,0 +1,5 @@
+dataset,accuracy,f1_macro,precision_macro,recall_macro,auc_macro
+wave1_imputed.xlsx,0.8356,0.7357,0.7513,0.7257,0.9014
+wave2_imputed.xlsx,0.8606,0.7954,0.7928,0.7994,0.9174
+wave3_imputed.xlsx,0.7538,0.6574,0.6546,0.6606,0.8379
+wave4_imputed.xlsx,0.7888,0.4711,0.4929,0.4571,0.7637
